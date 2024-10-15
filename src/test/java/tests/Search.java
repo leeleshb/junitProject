@@ -9,7 +9,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 //commented
-//more comment
+//more comment.
 public class Search {
 
 	@Test
